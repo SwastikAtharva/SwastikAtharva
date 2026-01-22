@@ -8,9 +8,12 @@ Frontend Developer | ML & Data Science Enthusiast | 🥇 Smart India Hackathon 2
   <img src="https://img.shields.io/badge/National%20Level-Hackathon-success?style=for-the-badge" />
 </p>
 
+###
 ---
 
 ## 🚀 About Me
+
+<img align="right" height="260" src="https://cdn.dribbble.com/userupload/22553452/file/original-bef4c9d5b9e203e1595b4caee2cb1008.gif" />
 
 - 🌱 Currently learning **Machine Learning & Deep Learning**
 - 👯 Looking to collaborate on **ML, AI & Data Science projects**
@@ -21,7 +24,6 @@ Frontend Developer | ML & Data Science Enthusiast | 🥇 Smart India Hackathon 2
 
 > 🧠 Passionate about building **real-world, scalable solutions** that create measurable impact — from frontend systems to data-driven intelligence.
 
----
 
 ## 🤝 Connect With Me
 
