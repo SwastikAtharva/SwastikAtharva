@@ -6,7 +6,6 @@ Frontend Developer | ML & Data Science Enthusiast | 🥇 Smart India Hackathon 2
 <p align="center">
   <img src="https://img.shields.io/badge/Smart%20India%20Hackathon-2025%20Winner-gold?style=for-the-badge" />
   <img src="https://img.shields.io/badge/National%20Level-Hackathon-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Domain-GovTech%20%7C%20EdTech-blue?style=for-the-badge" />
 </p>
 
 ---
