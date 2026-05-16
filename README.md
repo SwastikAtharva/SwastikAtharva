@@ -37,12 +37,6 @@ Frontend Developer | ML & Data Science Enthusiast | 🥇 Smart India Hackathon 2
 <a href="https://instagram.com/swastik_atharva">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
 </a>
-<a href="https://codeforces.com/profile/swastikatharva">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="40"/>
-</a>
-<a href="https://www.leetcode.com/gqckddzz03">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/>
-</a>
 </p>
 
 ---
