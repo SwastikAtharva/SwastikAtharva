@@ -124,9 +124,9 @@ Frontend Developer | ML & Data Science Enthusiast | 🥇 Smart India Hackathon 2
 
 ## 📊 GitHub Stats
 
-![Swastik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=swastikatharva&show_icons=true&theme=tokyonight)
+![Swastik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AncientWarRior13&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swastikatharva&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AncientWarRior13&layout=compact&theme=tokyonight)
 
 ---
 
