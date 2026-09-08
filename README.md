@@ -55,9 +55,9 @@ Delivered production-ready features under SIH timelines
 📈 Demonstrated potential for government-level rollout
 📊 GitHub Stats
 
-![Swastik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AncientWarRior13&show_icons=true&theme=tokyonight&cache_seconds=86400)
+[![GitHub Stats](https://github-stats-extended-frontend-tag6.vercel.app/api?username=AncientWarRior13&show_icons=true&include_all_commits=true&show=contributions,all_time_contribs&theme=dark_github)](https://github.com/AncientWarRior13)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AncientWarRior13&layout=compact&theme=tokyonight&cache_seconds=86400)
+[![Top Langs](https://github-stats-extended-frontend-tag6.vercel.app/api/top-langs/?username=AncientWarRior13&layout=compact&theme=dark_github)](https://github.com/AncientWarRior13)
 
 "Code is not just instructions — it's problem solving at scale."
 
