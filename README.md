@@ -55,9 +55,9 @@ Delivered production-ready features under SIH timelines
 📈 Demonstrated potential for government-level rollout
 📊 GitHub Stats
 
-Show Image
+![Swastik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AncientWarRior13&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
-Show Image
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AncientWarRior13&layout=compact&theme=tokyonight&cache_seconds=86400)
 
 "Code is not just instructions — it's problem solving at scale."
 
